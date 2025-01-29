@@ -1,0 +1,25 @@
+{
+  "name": "pg-server",
+  "version": "1.0.0",
+  "description": "A simple node.js based CRUD API server for retrieving info from a PostgreSQL database using express and pg modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bconnelly96/node-pg-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bconnelly96/node-pg-server/issues"
+  },
+  "homepage": "https://github.com/bconnelly96/node-pg-server#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
